@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id action_firstFragment_to_secondFragment3
+id action_secondFragment_to_firstFragment2
+id firstFragment
+id fragment
+id frameLayout
+id main
+id my_nav
+id navigationView
+id secondFragment
+id textView1
+id textView2
+id toolbar
+layout activity_main
+layout fragment_first
+layout fragment_second
+menu drawer_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+navigation my_nav
+string app_name
+string hello_blank_fragment
+style Base.Theme.MobileLab2_6
+style Theme.MobileLab2_6
+xml backup_rules
+xml data_extraction_rules
